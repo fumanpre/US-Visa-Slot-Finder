@@ -24,8 +24,9 @@ This tool automates the process of continuously checking for new, earlier appoin
 
 ## Technologies Used
 
-- **Python**: Primary language for the web scraping tool.
-- **BeautifulSoup** and **Requests**: Libraries used to scrape and parse the web page.
+- **Python**: Main programming language.
+- **Flask**: Web framework to serve the scraper's interface.
+- - **BeautifulSoup** and **Requests**: Libraries used to scrape and parse the web page.
 - **Selenium**: Handles dynamic content or JavaScript-based interactions on the site.
 - **Schedule**: Schedules the script to run at set intervals.
 
